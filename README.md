@@ -1,10 +1,9 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)](https://github.com/cbasitodx)
+[![MasterHead]([https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTEyODY1MjAsIm5iZiI6MTcxMTI4NjIyMCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI0VDEzMTcwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlhMmY2ZDIzNGIzM2E3YjNmODYyMDBhOTNlMzM2ZWYwMTYzNWIxMjBlMWY0NmVmZWEzYzBjZGJlMWZjNWUxN2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.pUOZSnR2n4Fywp1gJpPRQjthN1r1jslSheCmoC4WMDI))](https://github.com/cbasitodx)
 <h1 align="center">Hi 👋, I'm Sebas!</h1>
 <h3 align="center">Computer Science and Maths student passionate about Deep Learning & Applied Mathematics</h3>
 <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTEyODY1MjAsIm5iZiI6MTcxMTI4NjIyMCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI0VDEzMTcwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM2YjU0NGY2MzhmMDExMTk3NWY1YWZkMTA4M2Q1ODNjMDgwZDg5NWY4MjQyYWJjZDM5MTQ3MjBlMTc4YTYwNGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.bDrCX6mzJ5TzCqsc79lNbroRShGBDfpRztzaRKDAOx0">
 
-
-<p align="left"> <img src="" alt="cbasitodx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cbasitodx&label=Profile%20views&color=0e75b6&style=flat" alt="cbasitodx" /> </p>
 
 - 🔭 I’m currently working on [MiniTorch](https://github.com/cbasitodx/Multilayer_Perceptron)
 
