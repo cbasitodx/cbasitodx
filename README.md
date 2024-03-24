@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Pytorch](https://github.com/pytorch/pytorch)
 
-- 💬 Ask me about **Deep Neural Networks, Image Analysis, Robotics & Arduino, Learning Algorithms, Probability, Statistics, Numerical Methods, Real Analysis**
+- 💬 Ask me about **Deep Neural Networks, Image Analysis, Robotics & Arduino, Learning Algorithms, Probability, Statistics, Numerical Methods, Real Analysis & Computer Engineering!**
 
 - 📫 Contact me at **sebastian.conde@alumnos.upm.es**
 
