@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cbasitodx&label=Profile%20views&color=0e75b6&style=flat" alt="cbasitodx" /> </p>
 
-- 🔭 I’m currently working on [MiniTorch](https://github.com/cbasitodx/Multilayer_Perceptron)
+- 🔭 I’m currently working on [MiniTorch](https://github.com/cbasitodx/Minitorch.git)
 
 - 🌱 I’m currently learning **Transformers & Attention Mechanisms, LLM's, Reinforcement Learning (and the maths behind them!), GAN's, and many more ;)**
 
